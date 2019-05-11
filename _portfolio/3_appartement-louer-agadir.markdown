@@ -2,7 +2,7 @@
 layout: post
 title: Notre maison
 description: En savoir plus
-img: /img/maison.png
+img: /maison-hotes/img/maison.png
 ---
 
 Nous avons une autre maison dans le quartier (photos prochainement disponibles).

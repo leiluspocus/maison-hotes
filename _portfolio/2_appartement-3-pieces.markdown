@@ -2,7 +2,7 @@
 layout: post
 title: Izder
 description: Appartement au 1er étage
-img: /img/1etg/salon2.jpeg
+img: /maison-hotes/img/1etg/salon2.jpeg
 ---
 
 
