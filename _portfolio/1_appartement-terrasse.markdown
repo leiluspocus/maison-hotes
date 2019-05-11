@@ -5,7 +5,7 @@ description: Appartement avec terrasse
 img: /maison-hotes/img/terrasse.jpeg
 ---
 
-Cet appartement est à louer à Agadir au dernier étage de la maison d'hôtes. 
+Cet appartement est à louer à Agadir au dernier étage de la maison d'hôtes. Elle se trouve à 15mn à pied de la plage d'Agadir. 
 
 Vous aurez vue sur la magnifique montagne d'Agadir Oufella et le quartier de Boutchakate. 
 

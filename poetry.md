@@ -8,7 +8,7 @@ description: Visiter Agadir, les incontournables
 Voici nos incontournables : 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Agadir_-_2013.jpg" width="500" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Agadir_-_2013.jpg" width="280" />
 
 <ul class="post-list">
 <li>Gravir Agadir Oufella et profiter du paysage</li>

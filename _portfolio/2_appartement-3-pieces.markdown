@@ -6,7 +6,7 @@ img: /maison-hotes/img/1etg/salon2.jpeg
 ---
 
 
-Cet appartement dispose de 2 chambres, un salon, une cuisine, une salle de bains. Parfait pour les petites familles ! 
+Cet appartement dispose de 2 chambres, un salon, une cuisine, une salle de bains. Parfait pour les petites familles ! Elle se trouve à 15mn à pied de la plage d'Agadir. 
 
 {% include contact.html %}
 
