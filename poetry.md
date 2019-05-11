@@ -1,15 +1,22 @@
 ---
 layout: page
-permalink: /poetry/
-title: poetry
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+permalink: /visiter-agadir/
+title: Visiter Agadir
+description: Visiter Agadir, les incontournables
 ---
 
+Voici nos incontournables : 
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Agadir_-_2013.jpg" width="500" />
+
 <ul class="post-list">
-{% for poem in site.poetry reversed %}
-    <li>
-        <h2><a class="poem-title" href="{{ poem.url | prepend: site.baseurl }}">{{ poem.title }}</a></h2>
-        <p class="post-meta">{{ poem.date | date: '%B %-d, %Y — %H:%M' }}</p>
-      </li>
-{% endfor %}
+<li>Gravir Agadir Oufella et profiter du paysage</li>
+<li>Manger des fritures au port de pêche</li>
+<li>Faire le parcours sportif sur la promenade d'Agadir</li>
+<li>Déguster une glace à la Marina</li>
+<li>Flâner au Souk El Had</li>
+<li>Chiner à Talborjt</li>
+<li>S'ambiancer sur la côte en soirée ou dans un night-club</li>
+<li>Découvrir les plages au nord la ville: Taghazout, Aourir ...</li>
 </ul>

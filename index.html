@@ -3,22 +3,19 @@ layout: default
 ---
 
 <div class="header-bar">
-  <h1>*folio</h1>
-  <h2>simple whitespace theme</h2>
+  <h1>La maison bleue</h1>
+</div>
+
+<div class="hero">
+  <p>Nous vous proposons 3 appartements à louer à 15mn de la plage d'Agadir avec tout l'équipement qu'il faut: cuisine, salle de bains, eau chaude...</p>
+  <p>Bienvenue chez vous!</p>
   <br/>
   <hr>
   <br/>
+  <img src="{{ site.baseurl }}/img/maison.png" />
+  <br/> 
+  <br />
+  <div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3440.7682664427384!2d-9.594066784882516!3d30.414315981749198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdb3b6f84a1a09cf%3A0x371e5e6fcbc646e9!2s15+Rue+d&#39;Oujda%2C+Agadir+80000%2C+Maroc!5e0!3m2!1sfr!2sfr!4v1557592325039!5m2!1sfr!2sfr" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </div>
 </div>
-
-
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>

@@ -1,12 +1,14 @@
 # Site settings
-title: *folio
+title: Maison d'hôtes Agadir
 email: you@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Appartement à louer avec terrasse à Agadir, Maroc.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+name: Ahmed
+twitter_username: leiluspocus
+github_username:  leiluspocus
+phonenumber: (+212)-624-222723
 
 # Build settings
 markdown: kramdown
@@ -15,7 +17,7 @@ highlighter: rouge
 
 # Pagination
 paginate: 15
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
 
 
 collections:
@@ -23,7 +25,7 @@ collections:
     output: true
     permalink: /portfolio/:path/
   poetry:
-    output: true
+    output: false
     permalink: /poetry/:path/
 
 

@@ -24,7 +24,7 @@ $caption_font_size: 12px;
 $caption_color: #aaa;
 
 /* COLORS  */
-$red:  #FF3636;
+$red: #3B4662;
 $orange: #F29105;
 $blue: #2698BA;
 $green: #11D68B;
@@ -55,6 +55,15 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+.zellig {
+    background: url('http://blog.jasmineandco.fr/wp-content/uploads/2013/02/zellige-marocain-mod%C3%A8le.jpg');
+    height: 5vh;
+}
+
+.hero {
+    padding: 20px;
+    text-align: center;
+}
 
 
 /**
@@ -109,6 +118,14 @@ li {
 }
 
 
+.contact {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #B27C40;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}
 
 /**
  * Headings
