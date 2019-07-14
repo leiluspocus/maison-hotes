@@ -2,7 +2,7 @@
 layout: post
 title: Aflayn 
 description: Appartement avec terrasse
-img: /maison-hotes/img/terrasse.jpeg
+img: /img/terrasse.jpeg
 ---
 
 Cet appartement est à louer à Agadir au dernier étage de la maison d'hôtes. Elle se trouve à 15mn à pied de la plage d'Agadir. 
