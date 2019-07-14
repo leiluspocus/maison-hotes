@@ -2,7 +2,7 @@
 layout: post
 title: Notre maison
 description: En savoir plus
-img: /maison-hotes/img/maison.png
+img: /img/maison.png
 ---
 
 Nous avons une autre maison dans le quartier (photos prochainement disponibles). Elle se trouve à 15mn à pied de la plage d'Agadir. 
